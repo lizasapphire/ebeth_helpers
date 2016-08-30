@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='ebeth_helpers',
-      version='0.1',
+      version='0.2',
       description='mini tools to speed up gbdx work',
       url='https://github.com/lizasapphire/gbdx_helpers',
       author='Elizabeth Golden',
